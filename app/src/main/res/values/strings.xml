@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Study Day</string>
+    <string name="suo">Subject</string>
+
+    <!-- Populating Habit Tags for DropDownMenu-->
+    <string-array name="habits_tag_array">
+        <item>Lectures</item>
+        <item>Lab</item>
+        <item>Tutorial</item>
+        <item>Default-Target</item>
+    </string-array>
+
+
+    <!-- Populating Task Priorities for DropDownMenu-->
+    <string-array name="tasks_priority_array">
+        <item>HIGH</item>
+        <item>MEDIUM</item>
+        <item>LOW</item>
+    </string-array>
+
+</resources>
